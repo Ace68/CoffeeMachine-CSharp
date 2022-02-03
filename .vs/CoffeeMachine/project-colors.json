@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf3c5bf1-62aa-48c5-9c47-ab5eab56a3c1": {
+      "ProjectGuid": "cf3c5bf1-62aa-48c5-9c47-ab5eab56a3c1",
+      "DisplayName": "CoffeeMachine",
+      "ColorIndex": 0
+    },
+    "97a755ad-c70e-4c6c-bade-5bf79729098f": {
+      "ProjectGuid": "97a755ad-c70e-4c6c-bade-5bf79729098f",
+      "DisplayName": "CoffeeMachine.Shared",
+      "ColorIndex": 1
+    },
+    "47f4c365-fc6a-4a13-a95e-361ce6174d43": {
+      "ProjectGuid": "47f4c365-fc6a-4a13-a95e-361ce6174d43",
+      "DisplayName": "CoffeeMachine.Test",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

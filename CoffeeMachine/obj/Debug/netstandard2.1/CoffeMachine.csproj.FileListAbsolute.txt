@@ -1,0 +1,13 @@
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\bin\Debug\netstandard2.1\CoffeMachine.deps.json
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\bin\Debug\netstandard2.1\CoffeMachine.dll
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\bin\Debug\netstandard2.1\CoffeMachine.pdb
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\bin\Debug\netstandard2.1\CoffeMachine.Shared.dll
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\bin\Debug\netstandard2.1\CoffeMachine.Shared.pdb
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\obj\Debug\netstandard2.1\CoffeMachine.csproj.AssemblyReference.cache
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\obj\Debug\netstandard2.1\CoffeMachine.GeneratedMSBuildEditorConfig.editorconfig
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\obj\Debug\netstandard2.1\CoffeMachine.AssemblyInfoInputs.cache
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\obj\Debug\netstandard2.1\CoffeMachine.AssemblyInfo.cs
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\obj\Debug\netstandard2.1\CoffeMachine.csproj.CoreCompileInputs.cache
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\obj\Debug\netstandard2.1\CoffeMachine.csproj.CopyComplete
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\obj\Debug\netstandard2.1\CoffeMachine.dll
+c:\Sviluppo\Kata\CoffeMachineCSharp\CoffeMachine\obj\Debug\netstandard2.1\CoffeMachine.pdb
